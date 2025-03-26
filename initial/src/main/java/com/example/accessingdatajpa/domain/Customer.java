@@ -1,4 +1,4 @@
-package com.example.accessingdatajpa;
+package com.example.accessingdatajpa.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
